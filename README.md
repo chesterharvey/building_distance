@@ -4,8 +4,8 @@ This repo demonstrates Python tools for efficiently calculating *Building Distan
 I presented the building distance concept and measurements across the 100 largest U.S. urban areas in a [paper](https://pheedloop.com/WSTLUR2021/site/sessions/?id=SESMAR7E5DQNYNCPH) at the [2021 World Symposium on Transport and Land Use Research (WSTLUR)](https://pheedloop.com/WSTLUR2021/site/home/).
 
 ## Key Contents
-- **building_distance.py**: Python script containing core convenience functions for measuring building distance
-- **building_distance_demo.ipynb**: Jupyter notebook providing a minimal example of measurement with demo data
+- **[building_distance.py](https://github.com/chesterharvey/building_distance/blob/main/building_distance.py)**: Python script containing core convenience functions for measuring building distance
+- **[building_distance_demo.ipynb](https://github.com/chesterharvey/building_distance/blob/main/building_distance_demo.ipynb)**: Jupyter notebook providing a minimal example of measurement with demo data
 
 ## Installation
 I recommend creating a [conda environment with OSMnx](https://osmnx.readthedocs.io/en/stable/), which includes almost all necessary dependencies:
