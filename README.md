@@ -21,6 +21,7 @@ Then, install [StreetSpace](https://github.com/chesterharvey/StreetSpace), which
 ```
 pip install git+https://github.com/chesterharvey/StreetSpace
 ```
+The scripts and demo notebook depend on Numpy, Pandas, GeoPandas, Shapely, and Networkx, and use standard conventions for importing and naming these dependencies.  
 
 ## Data Sources
 For convenience, the minimal example in the demo notebook uses data from OpenStreetMap (OSM) that are downloaded using [OSMnx](https://github.com/gboeing/osmnx).
