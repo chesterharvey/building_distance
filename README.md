@@ -3,7 +3,7 @@ This repo demonstrates Python tools for efficiently calculating *Building Distan
 
 I presented the building distance concept and measurements across the 100 largest U.S. urban areas in a [paper](https://pheedloop.com/WSTLUR2021/site/sessions/?id=SESMAR7E5DQNYNCPH) at the [2021 World Symposium on Transport and Land Use Research (WSTLUR)](https://pheedloop.com/WSTLUR2021/site/home/).
 
-## Key Contents
+## Key Files
 - **[building_distance.py](https://github.com/chesterharvey/building_distance/blob/main/building_distance.py)**: Python script containing core convenience functions for measuring building distance
 - **[building_distance_demo.ipynb](https://github.com/chesterharvey/building_distance/blob/main/building_distance_demo.ipynb)**: Jupyter notebook providing a minimal example of measurement with demo data
 
@@ -17,7 +17,7 @@ Activate that environment:
 ```
 conda activate my_env_name
 ```
-Then, install [StreetSpace](https://github.com/chesterharvey/StreetSpace), which is my own package of Python tools for measuring and analyzing streets, from GitHub using pip:
+Then install [StreetSpace](https://github.com/chesterharvey/StreetSpace), my own package of Python tools for measuring and analyzing streets, from GitHub using pip:
 ```
 pip install git+https://github.com/chesterharvey/StreetSpace
 ```
